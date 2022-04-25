@@ -14,7 +14,9 @@ Does this linear model predict mpg of MechaCar prototypes effectively? why or wh
 ## Summary Statistics on Suspension Coils
 
 In total the varience is within the specification for all lots.
+
 ![Total_Summary](https://user-images.githubusercontent.com/94803292/164992147-e6427695-6755-47e0-9010-e9fec2157ed3.png)
 
 But for Lot 3 it exceeds the varience specification but 70 psi 
+
 ![Lot_Summary](https://user-images.githubusercontent.com/94803292/164992234-9c1f483d-8e91-4810-96b1-b241aa6ffc7a.png)
